@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "Docs"
+  name = "主要文档"
+  url = "docs"
+  weight = 1
+
+[[main]]
+  identifier = "Join Us"
+  name = "加入我们"
+  url = "join-us"
+  weight = 2

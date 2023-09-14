@@ -1,0 +1,37 @@
+logo = true
+logoText = "NUFE Wiki"
+logoType = "short" # long, short
+description = "The NUFE Unofficial Wiki site."
+editBaseURL = "https://github.com/zzossig/zzoDocs/blob/master/content"
+themeOptions = ["light", "dark"]
+
+useFaviconGenerator = true # https://www.favicon-generator.org/
+
+wideViewAsDefault = true
+
+enableWideBlogSwitch = true
+enableTocSwitch = true
+enableLandingBackground = true
+enableSearch = true
+enableSearchHighlight = true
+enableLangChange = true
+enableDarkMode = true
+enableBreadcrumb = true
+enableBlogBreadcrumb = true
+enableEditBtn = true
+enableToc = true
+enableMenu = true
+enableNavbar = true
+enableFooter = true
+showPoweredBy = true
+
+paginateWindow = 1
+taxoPaginate = 13
+taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+
+github = "https://github.com/zzossig/hugo-theme-zzo"
+
+enableComment = false
+[utterances]       # https://utteranc.es/
+  owner = "zzossig"              # Your GitHub ID
+  repo = "zzoDocs"               # The repo to store comments
