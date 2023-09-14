@@ -2,9 +2,9 @@ logo = true
 logoText = "NUFE Wiki"
 logoType = "short" # long, short
 description = "The NUFE Unofficial Wiki site."
-editBaseURL = "https://github.com/zzossig/zzoDocs/blob/master/content"
+editBaseURL = "https://github.com/LokmenoWer/nufe-wiki/tree/main/content"
 themeOptions = ["light", "dark"]
-
+favicon = "logo.png"
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
 wideViewAsDefault = true
@@ -29,7 +29,7 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zzo"
+github = "https://github.com/LokmenoWer/nufe-wiki/"
 
 enableComment = false
 [utterances]       # https://utteranc.es/

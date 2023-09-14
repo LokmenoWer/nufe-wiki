@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nufe.wiki/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'NUFE Unofficial Wiki'
+
