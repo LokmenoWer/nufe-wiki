@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>欢迎 on NUFE 非官方Wiki</title>
+    <link>http://nufe.wiki/cn/docs/</link>
+    <description>Recent content in 欢迎 on NUFE 非官方Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <copyright>NUFE Unofficial Wiki©{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="http://nufe.wiki/cn/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+    
+  </channel>
+</rss>
