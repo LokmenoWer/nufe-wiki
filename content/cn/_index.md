@@ -10,6 +10,10 @@ landing:
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
+  buttons:
+  - link: docs
+    text: 查看文档
+    color: primary
   #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
