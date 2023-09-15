@@ -18,9 +18,6 @@ googleAnalytics = ""
 disableKinds = ["taxonomyTerm"]
 [params]
 hostName = "https://nufe.wiki"
-custom_css = [
-  "customize.scss"
-]
 custom_js = [
   "sweetalert.min.js",
   "qrcode.min.js",
