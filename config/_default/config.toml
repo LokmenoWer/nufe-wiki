@@ -1,20 +1,32 @@
 baseURL = "http://nufe.wiki/" # The URL of your site.
 title = "NUFE Unofficial Wiki" # Title of your site
-theme = "zdoc" # Name of Zzo theme folder in `themes/`.
+theme = ["mtfwiki-modified", "zdoc"]
 
 defaultContentLanguage = "cn" # Default language to use (if you setup multilingual)
 defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
 hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
 
 copyright = "NUFE Unofficial Wiki©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
-timeout = 10000
+timeout = "1m"
 enableEmoji = true
-paginate = 13 # Number of items per page in paginated lists.
+enableRobotsTXT = true
+paginate = 13
 rssLimit = 100
 
 googleAnalytics = ""
 
 disableKinds = ["taxonomyTerm"]
+[params]
+hostName = "https://nufe.wiki"
+custom_css = [
+  "customize.scss"
+]
+custom_js = [
+  "sweetalert.min.js",
+  "qrcode.min.js",
+  "customize.js"
+]
+
 
 [markup]
   [markup.goldmark]

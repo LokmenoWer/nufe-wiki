@@ -1,0 +1,6 @@
+User-agent: *
+{{- if eq .Site.BaseURL "https://mtf.wiki" }}
+Sitemap: {{ absURL "sitemap.xml" }}
+{{- else }}
+Disallow: /
+{{- end }}
