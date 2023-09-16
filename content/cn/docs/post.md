@@ -25,6 +25,9 @@ weight: 1000
 
 发送邮件至:LokmenoWer@163.com进行投稿
 
+## Github投稿
+本站开源地址:[NUFE-WIKI](https://github.com/LokmenoWer/nufe-wiki/)
+
 ## 投稿格式
 
 XXX (食堂/专业/课程) 怎样怎样
