@@ -1,6 +1,7 @@
 ---
-title: 投稿
+title: 投稿指南
 description: NUFE.Wiki Post
+weight: 1000
 ---
 > 分享是奉献的果实,分享是快乐的前提
 

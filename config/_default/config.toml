@@ -1,4 +1,4 @@
-baseURL = "http://nufe.wiki/" # The URL of your site.
+baseURL = "https://nufe.wiki/" # The URL of your site.
 title = "NUFE Unofficial Wiki" # Title of your site
 theme = ["mtfwiki-modified", "zdoc"]
 
