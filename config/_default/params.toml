@@ -31,7 +31,7 @@ taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 github = "https://github.com/LokmenoWer/nufe-wiki/"
 
-enableComment = false
+enableComment = true
 [utterances]       # https://utteranc.es/
-  owner = "zzossig"              # Your GitHub ID
-  repo = "zzoDocs"               # The repo to store comments
+  owner = "LokmenoWer"              # Your GitHub ID
+  repo = "nufe-wiki-comment"               # The repo to store comments
