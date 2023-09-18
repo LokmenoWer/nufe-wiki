@@ -1,6 +1,0 @@
-User-agent: *
-{{- if eq .Site.BaseURL "https://nufe.wiki" }}
-Sitemap: {{ absURL "sitemap.xml" }}
-{{- else }}
-Disallow: /
-{{- end }}
