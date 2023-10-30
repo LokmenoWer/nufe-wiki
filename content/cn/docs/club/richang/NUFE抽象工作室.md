@@ -3,6 +3,7 @@ title: NUFE抽象工作室
 description: 本文介绍NUFE抽象工作室
 weight: 1
 ---
+**以下内容过期，群聊已无法加入**
 {{< notice warning "提示" >}} 
 本社团无法申请学分，仅为交友聊天社团！
 {{< /notice >}}
