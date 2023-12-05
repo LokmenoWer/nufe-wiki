@@ -4,7 +4,7 @@ logoType = "short" # long, short
 description = "The NUFE Unofficial Wiki site."
 editBaseURL = "https://github.com/LokmenoWer/nufe-wiki/tree/main/content"
 themeOptions = ["light", "dark"]
-favicon = "logo.png"
+favicon = "./logo.png"
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
 wideViewAsDefault = true

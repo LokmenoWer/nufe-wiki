@@ -8,10 +8,12 @@
   identifier = "Join"
   name = "加入我们"
   url = "join-us"
-  weight = 3
+  weight = 4
 
 [[main]]
   identifier = "ShuDong"
   name = "树洞"
   url = "shudong"
-  weight = 2
+  weight = 3
+
+
