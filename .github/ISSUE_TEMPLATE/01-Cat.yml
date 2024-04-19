@@ -15,11 +15,20 @@ body:
   - type: dropdown
     id: labels
     attributes:
-      label: 是否绝育
-      multiple: true
+      label: 绝育状态
+      multiple: false
       options:
         - 已经绝育
         - 未绝育
+        - 尚不清楚
+  - type: dropdown
+    id: labels
+    attributes:
+      label: 领养状态
+      multiple: false
+      options:
+        - 已领养
+        - 未领养
         - 尚不清楚
   - type: checkboxes
     id: license
