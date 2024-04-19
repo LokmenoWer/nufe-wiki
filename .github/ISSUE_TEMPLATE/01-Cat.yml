@@ -12,7 +12,7 @@ body:
       description: 请填写猫猫的名字
     validations:
       required: true
-    - type: input
+  - type: input
     id: cat-live
     attributes:
       label: 猫猫的活动范围
