@@ -30,6 +30,13 @@ body:
         - 已领养
         - 未领养
         - 尚不清楚
+  - type: textarea
+    id: caveats
+    attributes:
+      label: 详细描述
+      description: 请尽可能详细地描述猫猫的情况,可上传照片
+    validations:
+      required: true  
   - type: checkboxes
     id: license
     attributes:
