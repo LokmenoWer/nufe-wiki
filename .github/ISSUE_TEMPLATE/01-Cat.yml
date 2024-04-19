@@ -12,6 +12,15 @@ body:
       description: 请填写猫猫的名字
     validations:
       required: true
+  - type: dropdown
+    id: labels
+    attributes:
+      label: 是否绝育
+      multiple: true
+      options:
+        - 已经绝育
+        - 未绝育
+        - 尚不清楚
   - type: checkboxes
     id: license
     attributes:
