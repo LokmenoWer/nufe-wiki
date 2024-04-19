@@ -1,0 +1,55 @@
+name: 报告新的猫猫
+description: 报告新的 猫猫
+labels: [CATS]
+body:
+  - type: markdown
+    attributes:
+      value: 感谢您的报告，请根据该表单填充必要信息。
+  - type: input
+    id: cat_name
+    attributes:
+      label: 猫猫名字
+      description: 猫猫的名字
+      placeholder: 输入猫猫的名字
+      required: true
+  - type: dropdown
+    id: labels
+    attributes:
+      label: 是否绝育
+      multiple: true
+      options:
+        - 已绝育
+        - 未绝育
+        - 尚不清楚
+  - type: dropdown
+    id: labels
+    attributes:
+      label: 是否有疫苗
+      multiple: true
+      options:
+        - 已接种
+        - 未接种
+        - 尚不清楚
+  - type: input
+    id: cat_age
+    attributes:
+      label: 猫猫年龄
+      description: 猫猫的年龄
+      placeholder: 输入猫猫的年龄
+      required: false
+  - type: input
+    id: cat
+    attributes:
+      label: 猫猫描述
+      description: 猫猫的描述
+      placeholder: 输入猫猫的描述(可以上传图片)
+      required: false
+  - type: checkboxes
+    id: license
+    attributes:
+      label: 以 CC-BY-SA 4.0 协议分发
+      description: 本站采用 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-Hans) 协议分发内容
+      options:
+        - label: 我同意以 CC-BY-SA 4.0 协议分发
+          required: true
+    
