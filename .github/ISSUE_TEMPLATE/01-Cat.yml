@@ -6,10 +6,11 @@ body:
     attributes:
       value: 感谢您的报告，请根据该表单填充必要信息。
   - type: input
-    id: name
+    id: cat-name
     attributes:
       label: 猫猫的名字
       description: 请填写猫猫的名字
+    validations:
       required: true
   - type: checkboxes
     id: license
