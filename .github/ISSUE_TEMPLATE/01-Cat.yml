@@ -19,6 +19,13 @@ body:
       description: 请填写猫猫的活动范围
     validations:
       required: true
+  - type: input
+    id: cat-color
+    attributes:
+      label: 猫猫的颜色
+      description: 请填写猫猫的颜色
+    validations:
+      required: false
   - type: dropdown
     id: labels-jueyu
     attributes:
