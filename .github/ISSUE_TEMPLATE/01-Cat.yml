@@ -31,11 +31,14 @@ body:
   - type: dropdown
     id: labels-lingyang
     attributes:
-      label: 领养状态
-      multiple: false
+      label: 状态
+      multiple: true
       options:
+        - 在校
         - 已领养
         - 未领养
+        - 在猫星
+        - 失踪状态不明
         - 尚不清楚
   - type: textarea
     id: caveats
