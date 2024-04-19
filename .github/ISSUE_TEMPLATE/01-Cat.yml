@@ -13,7 +13,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: labels
+    id: labels-jueyu
     attributes:
       label: 绝育状态
       multiple: false
@@ -22,7 +22,7 @@ body:
         - 未绝育
         - 尚不清楚
   - type: dropdown
-    id: labels
+    id: labels-lingyang
     attributes:
       label: 领养状态
       multiple: false
