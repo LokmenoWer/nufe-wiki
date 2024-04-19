@@ -6,7 +6,7 @@ defaultContentLanguage = "cn" # Default language to use (if you setup multilingu
 defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
 hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
 
-copyright = "NUFE Unofficial Wiki©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+copyright = "NUFE Unofficial Wiki©{year}, All Rights Reserved.<a href='https://www.rainyun.com/rainyun_' target='_blank'>本站由雨云提供计算服务</a>" # copyright symbol: $copy; current year: {year}
 timeout = "1m"
 enableEmoji = true
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ rssLimit = 100
 
 googleAnalytics = ""
 
-disableKinds = ["taxonomyTerm"]
+disableKinds = ["taxonomy"]
 [params]
 hostName = "https://nufe.wiki"
 custom_js = [
