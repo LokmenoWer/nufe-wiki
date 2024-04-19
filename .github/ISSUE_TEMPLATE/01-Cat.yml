@@ -37,13 +37,14 @@ body:
       description: 猫猫的年龄
       placeholder: 输入猫猫的年龄
       required: false
-  - type: input
+  - type: caveats
     id: cat
     attributes:
       label: 猫猫描述
       description: 猫猫的描述
       placeholder: 输入猫猫的描述(可以上传图片)
-      required: false
+    validations:
+      required: true
   - type: checkboxes
     id: license
     attributes:
