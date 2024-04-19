@@ -1,5 +1,5 @@
 name: 报告新的猫猫
-description: 报告新的 猫猫
+description: 报告新的猫猫
 labels: [CATS]
 body:
   - type: markdown
