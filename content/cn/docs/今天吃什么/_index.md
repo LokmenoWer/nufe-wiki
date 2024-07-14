@@ -1,6 +1,6 @@
 ---
 title: 今天吃什么
-weight: 1
+weight: 2
 collapsible: true
 ---
 

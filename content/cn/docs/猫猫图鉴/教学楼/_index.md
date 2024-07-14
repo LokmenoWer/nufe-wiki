@@ -1,5 +1,5 @@
 ---
 title: 教学楼
-weight: 6
+weight: 7
 collapsible: true
 ---
