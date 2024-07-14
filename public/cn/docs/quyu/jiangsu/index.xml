@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>江苏 on NUFE Wiki</title><link>https://nufe.wiki/cn/docs/quyu/jiangsu/</link><description>Recent content in 江苏 on NUFE Wiki</description><generator>Hugo -- gohugo.io</generator><language>cn</language><copyright>NUFE Unofficial Wiki©{year}, All Rights Reserved.</copyright><atom:link href="https://nufe.wiki/cn/docs/quyu/jiangsu/index.xml" rel="self" type="application/rss+xml"/><item><title>泰州</title><link>https://nufe.wiki/cn/docs/quyu/jiangsu/%E6%B3%B0%E5%B7%9E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nufe.wiki/cn/docs/quyu/jiangsu/%E6%B3%B0%E5%B7%9E/</guid><description>名称 性质 联系方式 南财泰州宝子的窝 微信群</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>江苏 on NUFE Wiki</title>
+    <link>http://localhost:1313/cn/docs/quyu/jiangsu/</link>
+    <description>Recent content in 江苏 on NUFE Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <copyright>NUFE Unofficial Wiki©{year}, All Rights Reserved.</copyright>
+    
+        <atom:link href="http://localhost:1313/cn/docs/quyu/jiangsu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>泰州</title>
+        <link>http://localhost:1313/cn/docs/quyu/jiangsu/%E6%B3%B0%E5%B7%9E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/cn/docs/quyu/jiangsu/%E6%B3%B0%E5%B7%9E/</guid>
+        <description>名称 性质 联系方式 南财泰州宝子的窝 微信群</description>
+      </item>
+      
+    
+  </channel>
+</rss>

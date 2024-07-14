@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>学生评价 on NUFE Wiki</title><link>https://nufe.wiki/cn/docs/club/pinglun/</link><description>Recent content in 学生评价 on NUFE Wiki</description><generator>Hugo -- gohugo.io</generator><language>cn</language><copyright>NUFE Unofficial Wiki©{year}, All Rights Reserved.</copyright><atom:link href="https://nufe.wiki/cn/docs/club/pinglun/index.xml" rel="self" type="application/rss+xml"/><item><title>宿管会</title><link>https://nufe.wiki/cn/docs/club/pinglun/%E5%AE%BF%E7%AE%A1%E4%BC%9A/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nufe.wiki/cn/docs/club/pinglun/%E5%AE%BF%E7%AE%A1%E4%BC%9A/</guid><description>宿管会是个牛马组织，都别去 舍管会真实情况与宣传内容天壤悬隔，同学们应当仔细考虑，谨慎选择(上一条投稿的同学进行了补充)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学生评价 on NUFE Wiki</title>
+    <link>http://localhost:1313/cn/docs/club/pinglun/</link>
+    <description>Recent content in 学生评价 on NUFE Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <copyright>NUFE Unofficial Wiki©{year}, All Rights Reserved.</copyright>
+    
+        <atom:link href="http://localhost:1313/cn/docs/club/pinglun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>宿管会</title>
+        <link>http://localhost:1313/cn/docs/club/pinglun/%E5%AE%BF%E7%AE%A1%E4%BC%9A/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/cn/docs/club/pinglun/%E5%AE%BF%E7%AE%A1%E4%BC%9A/</guid>
+        <description>宿管会是个牛马组织，都别去 舍管会真实情况与宣传内容天壤悬隔，同学们应当仔细考虑，谨慎选择(上一条投稿的同学进行了补充)</description>
+      </item>
+      
+    
+  </channel>
+</rss>
