@@ -16,6 +16,12 @@ restoreClientID();
 
 loadScript("https://www.googletagmanager.com/gtag/js?id=" + IDENTIFY);
 
+
+
+
+
+
+
 function gtag(method: string, ...params: unknown[]): void {
   self.dataLayer.push(arguments);
 }

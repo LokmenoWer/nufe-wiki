@@ -111,3 +111,11 @@ function tableMerge(rows) {
   }
   refs.clear()
 }
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b810ffac8f024000944a16c7780d9843";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
