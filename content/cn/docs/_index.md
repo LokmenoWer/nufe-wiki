@@ -1,5 +1,11 @@
 ---
 title: 总览
+keywords:
+- NUFE
+- 南京财经大学
+- WIKI
+- 南财百科
+- 百科
 description: NUFE.Wiki Overview
 ---
 
