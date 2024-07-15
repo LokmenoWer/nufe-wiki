@@ -1,5 +1,12 @@
 ---
 title: 南财生活墙YOYO
+keywords:
+- NUFE
+- 南京财经大学
+- WIKI
+- 南财百科
+- 百科
+- 校园墙
 description: 本文介绍南财生活墙YOYO
 weight: 1
 ---
