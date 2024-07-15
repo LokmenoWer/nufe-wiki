@@ -1,5 +1,12 @@
 ---
 title: NUFE.wiki
+keywords:
+- NUFE
+- 南京财经大学
+- WIKI
+- 南财百科
+- 百科
+- 南财
 description: NUFE.wiki
 landing:
   height: 700

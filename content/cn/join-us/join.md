@@ -1,6 +1,13 @@
 ---
 title: Join Us
 description: 招人
+keywords:
+- NUFE
+- 南京财经大学
+- WIKI
+- 南财百科
+- 加入
+- 投稿
 date : 2023-09-14T21:50:52+08:00
 draft: false
 ...

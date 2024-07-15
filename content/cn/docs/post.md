@@ -1,5 +1,12 @@
 ---
 title: 投稿指北
+keywords:
+- NUFE
+- 南京财经大学
+- WIKI
+- 南财百科
+- 百科
+- 投稿
 description: NUFE.Wiki Post
 weight: 1000
 ---
